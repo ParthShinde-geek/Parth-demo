@@ -1,3 +1,3 @@
 # Parth-demo
 First git repository
-Author Parth
+Author PARTH
